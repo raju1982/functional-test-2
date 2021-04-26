@@ -1,0 +1,3 @@
+mvn clean test -Psmoke-test <execute specific test mentioned in profile>
+mvn clean test <execute all test>
+
